@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { removeCookie } from '../util/cookieService';
-let baseUrl: string = 'http://localhost:5000';
+let baseUrl: string = 'https://skillsetbackend.onrender.com';
 
 
 export async function httpGet(navigate: any, path: string) {
