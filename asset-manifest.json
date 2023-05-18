@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillsetfrontend/static/css/main.8902603e.css",
+    "main.js": "/skillsetfrontend/static/js/main.3dc72634.js",
+    "static/js/787.cda612ba.chunk.js": "/skillsetfrontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/skillsetfrontend/index.html",
+    "main.8902603e.css.map": "/skillsetfrontend/static/css/main.8902603e.css.map",
+    "main.3dc72634.js.map": "/skillsetfrontend/static/js/main.3dc72634.js.map",
+    "787.cda612ba.chunk.js.map": "/skillsetfrontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8902603e.css",
+    "static/js/main.3dc72634.js"
+  ]
+}
